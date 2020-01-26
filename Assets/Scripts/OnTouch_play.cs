@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/***************************************************************************************************************************************************************************
+ * This script is to detect if the screen is touched when the camera is pointed at highlightable character game object
+ * Plays sound when the respective character is touched 
+ **************************************************************************************************************************************************************************/
+
 public class OnTouch_play : MonoBehaviour
 {
     AudioSource playSound;

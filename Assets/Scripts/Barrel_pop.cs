@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*******************************************************************************************************************************************
+ * This script is to create a popping effect of Barrel when the user touches it by pointing at it in AR
+ * The barrel breaks open, makes the breaking sound, whiskey smoke comes out and flavor profile assets are spilled
+ * Depending on the quadrant in which the barrels are touched, different flavor assets emerge out
+ ******************************************************************************************************************************************/
+
 public class Barrel_pop : MonoBehaviour
 {
     public GameObject dest_barrel;

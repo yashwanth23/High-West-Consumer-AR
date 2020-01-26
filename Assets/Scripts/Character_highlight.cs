@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*****************************************************************************************************************************************************************
+ * This script is for highlighting the character when mobile phone is pointed at it in AR
+ * Shader material is overlaid on top of the actual material when the phone is pointed at it
+ ****************************************************************************************************************************************************************/
 public class Character_highlight : MonoBehaviour
 {
 

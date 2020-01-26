@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/********************************************************************************************************************************************************
+ * Zoom in/out by pinching on the screen 
+ * To give an illusion of scaling up/down of the scene in AR
+ *******************************************************************************************************************************************************/
+
 public class PinchZoom : MonoBehaviour
 {
 

@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using PathCreation;
 
+/******************************************************************************************************************************************************
+ * This script is to move the truck on a custom path that was created using PathCreator asset from Unity asset store
+ *****************************************************************************************************************************************************/
+
 public class Truck_motion : MonoBehaviour
 {
     //Using path creator asset from Unity asset store

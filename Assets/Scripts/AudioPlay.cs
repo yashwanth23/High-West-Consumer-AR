@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/*********************************************************************************************************
+ * This script is for playing background audio when the scene spawns in AR
+ ********************************************************************************************************/
+
 public class AudioPlay : MonoBehaviour
 {
     private AudioSource ambient_sound;

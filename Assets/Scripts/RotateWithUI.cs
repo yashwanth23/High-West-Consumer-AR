@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/**********************************************************************************************************************************************
+ * This script is to make the entire scene rotate with the slider in AR
+ *********************************************************************************************************************************************/
+
 public class RotateWithUI : MonoBehaviour
 {
 

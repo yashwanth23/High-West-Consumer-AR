@@ -2,6 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/***********************************************************************************************************************************************************************
+ * This script is for highlighting the barrel by overlaying a shader on top of the material when the phone is pointed at it in AR
+ **********************************************************************************************************************************************************************/
+
 public class Barrel_highlight : MonoBehaviour
 {
     GameObject HitObject;
